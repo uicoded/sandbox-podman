@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "Bash(file:*)",
+      "Bash(do echo -n \"$img: \")",
+      "Bash(sips:*)",
+      "Bash(magick:*)"
+    ]
+  }
+}
